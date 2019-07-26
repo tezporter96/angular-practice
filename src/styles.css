@@ -1,0 +1,19 @@
+/* Add application styles & imports to this file! */
+label{
+  font-family: 'Courier New', Courier, monospace;
+  color: #3B6CFF;
+  border: 5%;
+  
+}
+h3{
+  font-family: 'Courier New', Courier, monospace;
+}
+p {
+  font-family: 'Courier New', Courier, monospace;
+  color: #8462FF;
+}
+input[type=text]{
+  width: 50%;
+  margin: 8px;
+  display: inline-block;
+}
